@@ -1,4 +1,6 @@
-# Greetings from the United States!
+# 👋 Greetings from the United States
+
+![Profile Views](https://komarev.com/ghpvc/?username=burkebrunson&style=flat-square)
 
 ![Stacked Peaks](assets/media/stacked-peaks.svg)
 
@@ -14,6 +16,7 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 ## ⭐ Recent Stars
 
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (today)
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (today)
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents (1 month ago)
 - [octrow/ollama-rename-files](https://github.com/octrow/ollama-rename-files) - Effortlessly rename files using local AI - No tokens, No API. Based on Ollama. (1 month ago)
@@ -23,7 +26,6 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 - [kujenga/zotero-mcp](https://github.com/kujenga/zotero-mcp) - Model Context Protocol (MCP) server for the Zotero API, in Python (1 month ago)
 - [swairshah/zotero-mcp-server](https://github.com/swairshah/zotero-mcp-server) - MCP server to expose local zotero repository to MCP clients  (1 month ago)
 - [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more. (1 month ago)
-- [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code. (2 months ago)
 
 ## 👥 Check out some of my recent followers
 
@@ -43,16 +45,16 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 | [burkebrunson](https://github.com/burkebrunson/burkebrunson) | GitHub Profile for Daniel Burke Brunson |
 
 ## 📫 Contact info
-- X: https://x.com/BurkeBrunson
-- Web: https://www.dbbrunson.com/
+- X: [https://x.com/BurkeBrunson](https://x.com/BurkeBrunson)
+- Web: [https://www.dbbrunson.com/](https://bit.ly/3hqKx7R)
 - Mail: [daniel.brunson@und.edu](mailto:daniel.brunson@und.edu)
-- Keybase: https://keybase.io/burkebrunson
+- Keybase: [https://keybase.io/burkebrunson](https://keybase.io/burkebrunson)
 
 If you wish to support ❤️ my work, see [the sponsors page](https://github.com/sponsors/burkebrunson/).
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+🤔 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
-## GitHub stats
+## 📈 GitHub stats
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burkebrunson&theme=github_dark)
 ![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burkebrunson&theme=github_dark)
