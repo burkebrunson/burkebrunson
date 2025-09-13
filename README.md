@@ -1,24 +1,59 @@
-## Greetings from the United States! :us:
+# Greetings from the United States!
+
+![Stacked Peaks](assets/media/stacked-peaks.svg)
+
+Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND)](https://und.edu/) [Harold Hamm School of Geology and Geological Engineering (HHSGGE)](https://engineering.und.edu/academics/geology-and-geological/index.html) in Grand Forks, ND with research advisor [Dr. William Gosnold](https://campus.und.edu/directory/william.gosnold). His subdisciplines of focus are Geophysics and Structural Geology, and his research interests primarily include General and Practical Geothermics. Burke is an open science advocate. In his free time, he can be found searching for his next cup of coffee. He enjoys outdoors activities, exercise, gaming and board games, working on his website, and continuing education with online resources.
+
+## 📜 My recent blog posts
+
+- [Introducing &#34;Effective Online Presence&#34; for Technical Content Creators](https://www.dbbrunson.com/post/2024/07/06/new-content-eop/) (1 year ago)
+
+## 📓 Gists I wrote
+
+- [Keybase verification](https://gist.github.com/585489933dd2e98f2d7ec8660a01ec98) (2 weeks ago)
+
+## ⭐ Recent Stars
+
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (today)
+- [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents (1 month ago)
+- [octrow/ollama-rename-files](https://github.com/octrow/ollama-rename-files) - Effortlessly rename files using local AI - No tokens, No API. Based on Ollama. (1 month ago)
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3 (1 month ago)
+- [AgiNetz/semantic-zotero](https://github.com/AgiNetz/semantic-zotero) - Plugin for zotero to retrieve reference data from Semantic Scholar API and add them to your library (1 month ago)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 month ago)
+- [kujenga/zotero-mcp](https://github.com/kujenga/zotero-mcp) - Model Context Protocol (MCP) server for the Zotero API, in Python (1 month ago)
+- [swairshah/zotero-mcp-server](https://github.com/swairshah/zotero-mcp-server) - MCP server to expose local zotero repository to MCP clients  (1 month ago)
+- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more. (1 month ago)
+- [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code. (2 months ago)
+
+## 👥 Check out some of my recent followers
+
+- [helallao](https://github.com/helallao)
+- [seckinyasar](https://github.com/seckinyasar)
+- [standardgalactic](https://github.com/standardgalactic)
+- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
+- [technotip](https://github.com/technotip)
 
 
 
-### Some of my Active Projects
+## 🌳 Some of my active projects
 
 | Repo  | Description |
 | :---------------------------------------- | :------------------------------------------- |
 | [burkebrunson.github.io](https://github.com/burkebrunson/burkebrunson.github.io) | (Private Repo) Personal Website of Daniel Burke Brunson |
 | [burkebrunson](https://github.com/burkebrunson/burkebrunson) | GitHub Profile for Daniel Burke Brunson |
-| [Hugo Blox Builder](https://github.com/HugoBlox/hugo-blox-builder) | Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages. |
-| [Netlify for VS Code](https://github.com/shailen-naidoo/Netlify) | A VS Code extension that displays your Netlify build statuses and more. |
 
-### Contact info
+## 📫 Contact info
 - X: https://x.com/BurkeBrunson
 - Web: https://www.dbbrunson.com/
-- Mail: daniel.brunson@und.edu
+- Mail: [daniel.brunson@und.edu](mailto:daniel.brunson@und.edu)
 - Keybase: https://keybase.io/burkebrunson
 
-### GitHub stats
+If you wish to support ❤️ my work, see [the sponsors page](https://github.com/sponsors/burkebrunson/).
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burkebrunson&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burkebrunson&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=burkebrunson&theme=nord_dark&utcOffset=8)
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+
+## GitHub stats
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burkebrunson&theme=github_dark)
+![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burkebrunson&theme=github_dark)
+![Profile Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=burkebrunson&theme=github_dark&utcOffset=8)
