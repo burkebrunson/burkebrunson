@@ -1,4 +1,6 @@
-# Greetings from the United States!
+# 👋 Greetings from the United States
+
+![Profile Views](https://komarev.com/ghpvc/?username=burkebrunson&style=flat-square)
 
 ![Stacked Peaks](assets/media/stacked-peaks.svg)
 
@@ -49,16 +51,16 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 | [burkebrunson](https://github.com/burkebrunson/burkebrunson) | GitHub Profile for Daniel Burke Brunson |
 
 ## 📫 Contact info
-- X: https://x.com/BurkeBrunson
-- Web: https://www.dbbrunson.com/
+- X: [https://x.com/BurkeBrunson](https://x.com/BurkeBrunson)
+- Web: [https://www.dbbrunson.com/](https://bit.ly/3hqKx7R)
 - Mail: [daniel.brunson@und.edu](mailto:daniel.brunson@und.edu)
-- Keybase: https://keybase.io/burkebrunson
+- Keybase: [https://keybase.io/burkebrunson](https://keybase.io/burkebrunson)
 
 If you wish to support ❤️ my work, see [the sponsors page](https://github.com/sponsors/burkebrunson/).
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+🤔 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
-## GitHub stats
+## 📈 GitHub stats
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burkebrunson&theme=github_dark)
 ![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burkebrunson&theme=github_dark)
