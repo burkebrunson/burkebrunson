@@ -16,8 +16,8 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 ## ⭐ Recent Stars
 
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (today)
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (today)
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (1 day ago)
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (1 day ago)
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents (1 month ago)
 - [octrow/ollama-rename-files](https://github.com/octrow/ollama-rename-files) - Effortlessly rename files using local AI - No tokens, No API. Based on Ollama. (1 month ago)
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3 (1 month ago)
@@ -41,8 +41,8 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 | Repo  | Description |
 | :---------------------------------------- | :------------------------------------------- |
-| [burkebrunson.github.io](https://github.com/burkebrunson/burkebrunson.github.io) | (Private Repo) Personal Website of Daniel Burke Brunson |
-| [burkebrunson](https://github.com/burkebrunson/burkebrunson) | GitHub Profile for Daniel Burke Brunson |
+| [burkebrunson.github.io](https://github.com/burkebrunson/burkebrunson.github.io) | (Private Repo) Personal website of Daniel Burke Brunson |
+| [burkebrunson](https://github.com/burkebrunson/burkebrunson) | GitHub profile page of Daniel Bruke Brunson |
 
 ## 📫 Contact info
 - X: [https://x.com/BurkeBrunson](https://x.com/BurkeBrunson)
