@@ -47,8 +47,8 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 | Repo  | Description |
 | :---------------------------------------- | :------------------------------------------- |
-| [burkebrunson.github.io](https://github.com/burkebrunson/burkebrunson.github.io) | (Private Repo) Personal Website of Daniel Burke Brunson |
-| [burkebrunson](https://github.com/burkebrunson/burkebrunson) | GitHub Profile for Daniel Burke Brunson |
+| [burkebrunson.github.io](https://github.com/burkebrunson/burkebrunson.github.io) | (Private Repo) Personal website of Daniel Burke Brunson |
+| [burkebrunson](https://github.com/burkebrunson/burkebrunson) | GitHub profile page of Daniel Bruke Brunson |
 
 ## 📫 Contact info
 - X: [https://x.com/BurkeBrunson](https://x.com/BurkeBrunson)
