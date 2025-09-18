@@ -16,6 +16,8 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 ## ⭐ Recent Stars
 
+- [bullejos/A-model-of-a-geological-structure-in-SE-Spain](https://github.com/bullejos/A-model-of-a-geological-structure-in-SE-Spain) -  (today)
+- [zsylvester/stratigraph](https://github.com/zsylvester/stratigraph) - A set of tools for visualizing stratigraphic models (today)
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (5 days ago)
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (5 days ago)
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents (1 month ago)
@@ -24,8 +26,6 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 - [AgiNetz/semantic-zotero](https://github.com/AgiNetz/semantic-zotero) - Plugin for zotero to retrieve reference data from Semantic Scholar API and add them to your library (1 month ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 month ago)
 - [kujenga/zotero-mcp](https://github.com/kujenga/zotero-mcp) - Model Context Protocol (MCP) server for the Zotero API, in Python (1 month ago)
-- [swairshah/zotero-mcp-server](https://github.com/swairshah/zotero-mcp-server) - MCP server to expose local zotero repository to MCP clients  (1 month ago)
-- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more. (1 month ago)
 
 ## 👥 Check out some of my recent followers
 
