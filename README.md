@@ -12,12 +12,12 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 ## 📓 Gists I wrote
 
-- [Keybase verification](https://gist.github.com/585489933dd2e98f2d7ec8660a01ec98) (4 weeks ago)
+- [Keybase verification](https://gist.github.com/585489933dd2e98f2d7ec8660a01ec98) (1 month ago)
 
 ## ⭐ Recent Stars
 
-- [bullejos/A-model-of-a-geological-structure-in-SE-Spain](https://github.com/bullejos/A-model-of-a-geological-structure-in-SE-Spain) -  (6 days ago)
-- [zsylvester/stratigraph](https://github.com/zsylvester/stratigraph) - A set of tools for visualizing stratigraphic models (6 days ago)
+- [bullejos/A-model-of-a-geological-structure-in-SE-Spain](https://github.com/bullejos/A-model-of-a-geological-structure-in-SE-Spain) -  (1 week ago)
+- [zsylvester/stratigraph](https://github.com/zsylvester/stratigraph) - A set of tools for visualizing stratigraphic models (1 week ago)
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (1 week ago)
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (1 week ago)
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents (1 month ago)
