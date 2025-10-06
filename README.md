@@ -16,7 +16,7 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 ## ⭐ Recent Stars
 
-- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (3 days ago)
+- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (4 days ago)
 - [bullejos/A-model-of-a-geological-structure-in-SE-Spain](https://github.com/bullejos/A-model-of-a-geological-structure-in-SE-Spain) -  (2 weeks ago)
 - [zsylvester/stratigraph](https://github.com/zsylvester/stratigraph) - A set of tools for visualizing stratigraphic models (2 weeks ago)
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (3 weeks ago)
@@ -24,8 +24,8 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents (1 month ago)
 - [octrow/ollama-rename-files](https://github.com/octrow/ollama-rename-files) - Effortlessly rename files using local AI - No tokens, No API. Based on Ollama. (1 month ago)
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3 (1 month ago)
-- [AgiNetz/semantic-zotero](https://github.com/AgiNetz/semantic-zotero) - Plugin for zotero to retrieve reference data from Semantic Scholar API and add them to your library (1 month ago)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 month ago)
+- [AgiNetz/semantic-zotero](https://github.com/AgiNetz/semantic-zotero) - Plugin for zotero to retrieve reference data from Semantic Scholar API and add them to your library (2 months ago)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (2 months ago)
 
 ## 👥 Check out some of my recent followers
 
