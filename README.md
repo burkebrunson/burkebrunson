@@ -16,14 +16,14 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 ## ⭐ Recent Stars
 
-- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (6 days ago)
-- [bullejos/A-model-of-a-geological-structure-in-SE-Spain](https://github.com/bullejos/A-model-of-a-geological-structure-in-SE-Spain) -  (2 weeks ago)
-- [zsylvester/stratigraph](https://github.com/zsylvester/stratigraph) - A set of tools for visualizing stratigraphic models (2 weeks ago)
+- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (1 week ago)
+- [bullejos/A-model-of-a-geological-structure-in-SE-Spain](https://github.com/bullejos/A-model-of-a-geological-structure-in-SE-Spain) -  (3 weeks ago)
+- [zsylvester/stratigraph](https://github.com/zsylvester/stratigraph) - A set of tools for visualizing stratigraphic models (3 weeks ago)
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (3 weeks ago)
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (3 weeks ago)
-- [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents (1 month ago)
-- [octrow/ollama-rename-files](https://github.com/octrow/ollama-rename-files) - Effortlessly rename files using local AI - No tokens, No API. Based on Ollama. (1 month ago)
-- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3 (1 month ago)
+- [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents (2 months ago)
+- [octrow/ollama-rename-files](https://github.com/octrow/ollama-rename-files) - Effortlessly rename files using local AI - No tokens, No API. Based on Ollama. (2 months ago)
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3 (2 months ago)
 - [AgiNetz/semantic-zotero](https://github.com/AgiNetz/semantic-zotero) - Plugin for zotero to retrieve reference data from Semantic Scholar API and add them to your library (2 months ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (2 months ago)
 
