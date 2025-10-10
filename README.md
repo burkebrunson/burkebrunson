@@ -30,10 +30,10 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 ## 👥 Check out some of my recent followers
 
 - [trinhminhtriet](https://github.com/trinhminhtriet)
-- [seckinyasar](https://github.com/seckinyasar)
 - [standardgalactic](https://github.com/standardgalactic)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [technotip](https://github.com/technotip)
+- [gostopy](https://github.com/gostopy)
 
 
 
