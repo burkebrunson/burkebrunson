@@ -25,7 +25,7 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 - [octrow/ollama-rename-files](https://github.com/octrow/ollama-rename-files) - Effortlessly rename files using local AI - No tokens, No API. Based on Ollama. (3 months ago)
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3 (3 months ago)
 - [AgiNetz/semantic-zotero](https://github.com/AgiNetz/semantic-zotero) - Plugin for zotero to retrieve reference data from Semantic Scholar API and add them to your library (3 months ago)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (3 months ago)
+- [kujenga/zotero-mcp](https://github.com/kujenga/zotero-mcp) - Model Context Protocol (MCP) server for the Zotero API, in Python (3 months ago)
 
 ## 👥 Check out some of my recent followers
 
