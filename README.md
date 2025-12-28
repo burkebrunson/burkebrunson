@@ -8,7 +8,7 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 ## 📜 My recent blog posts
 
-- [Introducing &#34;Effective Online Presence&#34; for Technical Content Creators](https://www.dbbrunson.com/post/2024/07/06/new-content-eop/) (1 year ago)
+- [Introducing &#34;Effective Online Presence&#34; for Technical Content Creators](https://www.dbbrunson.com/post/2024/07/06/new-content-eop/) (2 years ago)
 
 ## 📓 Gists I wrote
 
