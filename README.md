@@ -16,6 +16,7 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 ## ⭐ Recent Stars
 
+- [ajwdd/RapidUnlike](https://github.com/ajwdd/RapidUnlike) - 💔 Safest method to unlike all liked tweets on Twitter/X. (today)
 - [kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) - A connector for Claude Desktop to work with collection and sources on your Zotero Cloud. (1 week ago)
 - [ElliotRoe/lit-lake](https://github.com/ElliotRoe/lit-lake) - A reasonable way to allow AI to work with reference managers (1 week ago)
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (5 months ago)
@@ -25,7 +26,6 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (6 months ago)
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents (7 months ago)
 - [octrow/ollama-rename-files](https://github.com/octrow/ollama-rename-files) - Effortlessly rename files using local AI - No tokens, No API. Based on Ollama. (7 months ago)
-- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3 (7 months ago)
 
 ## 👥 Check out some of my recent followers
 
