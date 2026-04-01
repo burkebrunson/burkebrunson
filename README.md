@@ -18,8 +18,8 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (1 week ago)
 - [ajwdd/RapidUnlike](https://github.com/ajwdd/RapidUnlike) - 💔 Safest method to unlike all liked tweets on Twitter/X. (2 weeks ago)
-- [kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) - A connector for Claude Desktop to work with collection and sources on your Zotero Cloud. (3 weeks ago)
-- [ElliotRoe/lit-lake](https://github.com/ElliotRoe/lit-lake) - A reasonable way to allow AI to work with reference managers (3 weeks ago)
+- [kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) - A connector for Claude Desktop to work with collection and sources on your Zotero Cloud. (4 weeks ago)
+- [ElliotRoe/lit-lake](https://github.com/ElliotRoe/lit-lake) - A reasonable way to allow AI to work with reference managers (4 weeks ago)
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (6 months ago)
 - [bullejos/A-model-of-a-geological-structure-in-SE-Spain](https://github.com/bullejos/A-model-of-a-geological-structure-in-SE-Spain) -  (6 months ago)
 - [zsylvester/stratigraph](https://github.com/zsylvester/stratigraph) - A set of tools for visualizing stratigraphic models (6 months ago)
