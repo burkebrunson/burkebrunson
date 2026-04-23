@@ -12,7 +12,7 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 ## 📓 Gists I wrote
 
-- [Keybase verification](https://gist.github.com/585489933dd2e98f2d7ec8660a01ec98) (7 months ago)
+- [Keybase verification](https://gist.github.com/585489933dd2e98f2d7ec8660a01ec98) (8 months ago)
 
 ## ⭐ Recent Stars
 
