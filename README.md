@@ -16,6 +16,7 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 ## ⭐ Recent Stars
 
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (today)
 - [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. (2 weeks ago)
 - [HighAxolotol/twitter-unbookmarker](https://github.com/HighAxolotol/twitter-unbookmarker) - A JavaScript tool for automatically removing all bookmarked tweets on X (formerly Twitter). Designed for use in the browser console with customizable delays and progress logging. Ideal for users who want to clean up their saved content efficiently. (3 weeks ago)
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (4 months ago)
@@ -25,7 +26,6 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (9 months ago)
 - [bullejos/A-model-of-a-geological-structure-in-SE-Spain](https://github.com/bullejos/A-model-of-a-geological-structure-in-SE-Spain) -  (10 months ago)
 - [zsylvester/stratigraph](https://github.com/zsylvester/stratigraph) - A set of tools for visualizing stratigraphic models (10 months ago)
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (10 months ago)
 
 ## 👥 Check out some of my recent followers
 
