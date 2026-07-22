@@ -12,11 +12,11 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 ## 📓 Gists I wrote
 
-- [Keybase verification](https://gist.github.com/585489933dd2e98f2d7ec8660a01ec98) (10 months ago)
+- [Keybase verification](https://gist.github.com/585489933dd2e98f2d7ec8660a01ec98) (11 months ago)
 
 ## ⭐ Recent Stars
 
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (1 day ago)
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (2 days ago)
 - [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. (3 weeks ago)
 - [HighAxolotol/twitter-unbookmarker](https://github.com/HighAxolotol/twitter-unbookmarker) - A JavaScript tool for automatically removing all bookmarked tweets on X (formerly Twitter). Designed for use in the browser console with customizable delays and progress logging. Ideal for users who want to clean up their saved content efficiently. (3 weeks ago)
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (4 months ago)
