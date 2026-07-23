@@ -8,32 +8,32 @@ Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND
 
 ## 📜 My recent blog posts
 
-- [Introducing &#34;Effective Online Presence&#34; for Technical Content Creators](https://www.dbbrunson.com/post/2024/07/06/new-content-eop/) (1 year ago)
+- [Introducing &#34;Effective Online Presence&#34; for Technical Content Creators](https://www.dbbrunson.com/post/2024/07/06/new-content-eop/) (2 years ago)
 
 ## 📓 Gists I wrote
 
-- [Keybase verification](https://gist.github.com/585489933dd2e98f2d7ec8660a01ec98) (2 weeks ago)
+- [Keybase verification](https://gist.github.com/585489933dd2e98f2d7ec8660a01ec98) (11 months ago)
 
 ## ⭐ Recent Stars
 
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (1 day ago)
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (1 day ago)
-- [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents (1 month ago)
-- [octrow/ollama-rename-files](https://github.com/octrow/ollama-rename-files) - Effortlessly rename files using local AI - No tokens, No API. Based on Ollama. (1 month ago)
-- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3 (1 month ago)
-- [AgiNetz/semantic-zotero](https://github.com/AgiNetz/semantic-zotero) - Plugin for zotero to retrieve reference data from Semantic Scholar API and add them to your library (1 month ago)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 month ago)
-- [kujenga/zotero-mcp](https://github.com/kujenga/zotero-mcp) - Model Context Protocol (MCP) server for the Zotero API, in Python (1 month ago)
-- [swairshah/zotero-mcp-server](https://github.com/swairshah/zotero-mcp-server) - MCP server to expose local zotero repository to MCP clients  (1 month ago)
-- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more. (1 month ago)
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (2 days ago)
+- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. (3 weeks ago)
+- [HighAxolotol/twitter-unbookmarker](https://github.com/HighAxolotol/twitter-unbookmarker) - A JavaScript tool for automatically removing all bookmarked tweets on X (formerly Twitter). Designed for use in the browser console with customizable delays and progress logging. Ideal for users who want to clean up their saved content efficiently. (3 weeks ago)
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (4 months ago)
+- [ajwdd/RapidUnlike](https://github.com/ajwdd/RapidUnlike) - 💔 Safest method to unlike all liked tweets on Twitter/X. (4 months ago)
+- [kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) - A connector for Claude Desktop to work with collection and sources on your Zotero Cloud. (4 months ago)
+- [ElliotRoe/lit-lake](https://github.com/ElliotRoe/lit-lake) - A reasonable way to allow AI to work with reference managers (4 months ago)
+- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (9 months ago)
+- [bullejos/A-model-of-a-geological-structure-in-SE-Spain](https://github.com/bullejos/A-model-of-a-geological-structure-in-SE-Spain) -  (10 months ago)
+- [zsylvester/stratigraph](https://github.com/zsylvester/stratigraph) - A set of tools for visualizing stratigraphic models (10 months ago)
 
 ## 👥 Check out some of my recent followers
 
-- [helallao](https://github.com/helallao)
-- [seckinyasar](https://github.com/seckinyasar)
+- [julieflorepz](https://github.com/julieflorepz)
 - [standardgalactic](https://github.com/standardgalactic)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [technotip](https://github.com/technotip)
+- [gostopy](https://github.com/gostopy)
 
 
 
