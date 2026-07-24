@@ -4,7 +4,7 @@
 
 ![Stacked Peaks](assets/media/stacked-peaks.svg)
 
-Burke is a Doctoral Candidate of Geology at [The University of North Dakota (UND)](https://und.edu/) [Harold Hamm School of Geology and Geological Engineering (HHSGGE)](https://engineering.und.edu/academics/geology-and-geological/index.html) in Grand Forks, ND with research advisor [Dr. William Gosnold](https://campus.und.edu/directory/william.gosnold). His subdisciplines of focus are Geophysics and Structural Geology, and his research interests primarily include General and Practical Geothermics. Burke is an open science advocate. In his free time, he can be found searching for his next cup of coffee. He enjoys outdoors activities, exercise, gaming and board games, working on his website, and continuing education with online resources.
+Burke holds a Ph.D. in Geology from [The University of North Dakota (UND)](https://und.edu/) [Harold Hamm School of Geology and Geological Engineering (HHSGGE)](https://engineering.und.edu/academics/geology-and-geological/index.html) in Grand Forks, ND, where he conducted research under [Dr. William Gosnold](https://campus.und.edu/directory/william.gosnold). His subdisciplines of focus are Geophysics and Structural Geology, and his research interests primarily include General and Practical Geothermics. Burke is an open science advocate. In his free time, he can be found searching for his next cup of coffee. He enjoys outdoor activities, exercise, gaming and board games, working on his website, and continuing education with online resources.
 
 ## 📜 My recent blog posts
 {{range rss "https://www.dbbrunson.com/post/index.xml" 5}}
