@@ -16,12 +16,12 @@ Burke holds a Ph.D. in Geology from [The University of North Dakota (UND)](https
 
 ## ⭐ Recent Stars
 
-- [KeithCu/writeragent](https://github.com/KeithCu/writeragent) - A LibreOffice extension that adds agentic AI and NumPy features. (1 day ago)
+- [KeithCu/writeragent](https://github.com/KeithCu/writeragent) - A LibreOffice extension that adds agentic AI and NumPy features. (2 days ago)
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (2 weeks ago)
 - [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. (1 month ago)
 - [HighAxolotol/twitter-unbookmarker](https://github.com/HighAxolotol/twitter-unbookmarker) - A JavaScript tool for automatically removing all bookmarked tweets on X (formerly Twitter). Designed for use in the browser console with customizable delays and progress logging. Ideal for users who want to clean up their saved content efficiently. (1 month ago)
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. (4 months ago)
-- [ajwdd/RapidUnlike](https://github.com/ajwdd/RapidUnlike) - 💔 Safest method to unlike all liked tweets on Twitter/X. (4 months ago)
+- [ajwdd/RapidUnlike](https://github.com/ajwdd/RapidUnlike) - 💔 Safest method to unlike all liked tweets on Twitter/X. (5 months ago)
 - [kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) - A connector for Claude Desktop to work with collection and sources on your Zotero Cloud. (5 months ago)
 - [ElliotRoe/lit-lake](https://github.com/ElliotRoe/lit-lake) - A reasonable way to allow AI to work with reference managers (5 months ago)
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (10 months ago)
