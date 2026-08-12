@@ -16,7 +16,7 @@ Burke holds a Ph.D. in Geology from [The University of North Dakota (UND)](https
 
 ## ⭐ Recent Stars
 
-- [KeithCu/writeragent](https://github.com/KeithCu/writeragent) - A LibreOffice extension that adds agentic AI and NumPy features. (4 days ago)
+- [KeithCu/writeragent](https://github.com/KeithCu/writeragent) - A LibreOffice extension that adds agentic AI and NumPy features. (5 days ago)
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (3 weeks ago)
 - [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. (1 month ago)
 - [HighAxolotol/twitter-unbookmarker](https://github.com/HighAxolotol/twitter-unbookmarker) - A JavaScript tool for automatically removing all bookmarked tweets on X (formerly Twitter). Designed for use in the browser console with customizable delays and progress logging. Ideal for users who want to clean up their saved content efficiently. (1 month ago)
