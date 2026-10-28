@@ -18,7 +18,7 @@ Burke holds a Ph.D. in Geology from [The University of North Dakota (UND)](https
 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 months ago)
 - [KeithCu/writeragent](https://github.com/KeithCu/writeragent) - A LibreOffice extension that adds agentic AI and NumPy features. (2 months ago)
-- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. (3 months ago)
+- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. (4 months ago)
 - [HighAxolotol/twitter-unbookmarker](https://github.com/HighAxolotol/twitter-unbookmarker) - A JavaScript tool for automatically removing all bookmarked tweets on X (formerly Twitter). Designed for use in the browser console with customizable delays and progress logging. Ideal for users who want to clean up their saved content efficiently. (4 months ago)
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. (7 months ago)
 - [ajwdd/RapidUnlike](https://github.com/ajwdd/RapidUnlike) - 💔 Safest method to unlike all liked tweets on Twitter/X. (7 months ago)
