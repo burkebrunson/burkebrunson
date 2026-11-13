@@ -16,6 +16,7 @@ Burke holds a Ph.D. in Geology from [The University of North Dakota (UND)](https
 
 ## ⭐ Recent Stars
 
+- [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) - Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, Android phones and iPhone backups. Double-click apps for Windows, Mac and Linux, in 27 languages. (today)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 months ago)
 - [KeithCu/writeragent](https://github.com/KeithCu/writeragent) - A LibreOffice extension that adds agentic AI and NumPy features. (3 months ago)
 - [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. (4 months ago)
@@ -25,7 +26,6 @@ Burke holds a Ph.D. in Geology from [The University of North Dakota (UND)](https
 - [kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) - A connector for Claude Desktop to work with collection and sources on your Zotero Cloud. (8 months ago)
 - [ElliotRoe/lit-lake](https://github.com/ElliotRoe/lit-lake) - A reasonable way to allow AI to work with reference managers (8 months ago)
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (1 year ago)
-- [bullejos/A-model-of-a-geological-structure-in-SE-Spain](https://github.com/bullejos/A-model-of-a-geological-structure-in-SE-Spain) -  (1 year ago)
 
 ## 👥 Check out some of my recent followers
 
